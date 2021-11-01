@@ -20,7 +20,10 @@ https://phoenixnap.com/kb/extract-tar-gz-files-linux-command-line
 
 Packages used:
 -- pandas
-
+-- matplotlib
+-- numpy
+-- scipy
+-- sklearn
 
 Useful guides:
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
