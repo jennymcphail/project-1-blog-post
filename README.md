@@ -30,10 +30,13 @@ https://phoenixnap.com/kb/extract-tar-gz-files-linux-command-line
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
 
 # What did I do?
+After importing the data I explored it using describe and head to look at the data. I thought of a list of interesting business questions which could potentially be answered with the data. I did some Exploratory Data Analysis to answer some of the simpler questions. Then I built a model to see if there is potential in a tool which suggests how new hosts should price their listings.
 
 # What did I conclude?
+My model doesn't perform as well as I'd want for a tool like this, although I was able to improve it in a couple of iterations. I think I am missing what I think would be the most important feature for predicting price - how many people does the listing accommodate!
 
-
-#Later:
+# Later:
 - do I want to install geopandas and draw some maps?
 https://www.python-graph-gallery.com/map-read-geojson-with-python-geopandas
+
+If I have time I might come back to this later as there are so many interesting things I could do. I might move my project to outside my corporate organisation, as restrictions on package versioning/upgrades are impacting my ability to do some cool stuff!
